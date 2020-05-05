@@ -67,4 +67,5 @@
 	<specification key="us-argonaut" name="Argonaut (do not use)" deprecated="true"/>
 	<specification key="us-lab" name="US Lab" deprecated="true"/>
 	<specification key="security-label-ds-for-p" name="FHIR Data Segmentation for Privacy" deprecated="false" />
+	<specification key="us-dental" name"Dental Data Exchange" deprecated="false" />
 </specifications>
